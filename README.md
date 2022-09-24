@@ -5,8 +5,8 @@ Cursando Ensino Médio com Habilitação em Desenvolvimento de Sistemas
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gu1lherme_pz/)
 
 
-![Guilhermeksk GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilhermeksk&show_icons=true&theme=Guilhermeksk&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermeksk&layout=compact)](https://github.com/Guilhermeksk/github-readme-stats)
+![Guilhermeksk GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilhermeksk&show_icons=true&theme=Guilhermeksk&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermeksk&layout=compact)](https://github.com/Guilhermeksk/github-readme-stats)
+
 
 ## Tecnologias que eu utilizo
 
