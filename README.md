@@ -1,6 +1,6 @@
 ## Oi, eu sou Guilherme Pizzorno 🖐️
 
-Cursando Ensino Médio com Habilitação em Desenvolvimento de Sistemas
+Ensino Médio com Habilitação em Desenvolvimento de Sistemas
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gu1lherme_pz/)
 
