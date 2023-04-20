@@ -2,7 +2,7 @@
 
 Ensino Médio com Habilitação em Desenvolvimento de Sistemas
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guilhermeee.pz/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guilhermee_pz/)
 
 <div align="center">
   <a href="https://github.com/Guilhermeksk">
