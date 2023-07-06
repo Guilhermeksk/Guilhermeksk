@@ -1,4 +1,4 @@
-## Oi, eu sou Guilherme Pizzorno 🖐️
+## Oi, eu sou Guilherme Pizzorno 
 
 Ensino Médio com Habilitação em Desenvolvimento de Sistemas
 
