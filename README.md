@@ -89,7 +89,7 @@ Cursando Analise e Desenvolvimento de sistemas - Fatec Rubens Lara
 
 #### Como entrar em contato comigo:
 <div>
-<a href="www.linkedin.com/in/guilherme-pizzorno" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>       
+<a href="https://www.linkedin.com/in/guilherme-pizzorno/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>       
 <a href ="mailto:pizzorno1223@gmail.com"><img src="https://img.shields.io/badge/mail-FFFFFF?style=for-the-badge&logo=apple&logoColor=black" target="_blank"></a>
 </div>
 
