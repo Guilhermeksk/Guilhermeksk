@@ -1,5 +1,5 @@
 ## Oi, eu sou Guilherme Pizzorno 
-
+Atualmente trabalhando na Gestão Max como Desenvolvedor Backend, focado em integração de APIs em C# e manipulação de dados no SQL Server.
 Cursando Analise e Desenvolvimento de sistemas - Fatec Rubens Lara
 
 
